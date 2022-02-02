@@ -1,0 +1,54 @@
+body {
+font-family: console;
+font-weight: bold;
+text-align: center;
+
+
+}
+
+
+p {
+	
+font-weight: bold;
+font-family: !important;
+font-size: 23px;
+background-size: 100px;
+padding-bottom: 2em;
+
+
+height: 30px;
+width:100%;
+left: 0;
+height: 10vh;
+margin: 30;
+line-height: 1px;
+
+}
+
+
+
+
+
+.box{
+align-content: top;
+width: 100%;
+background-color: rgb(163,207,161);
+background-size: cover;
+border-width: 0;
+text-align: center;
+margin-top: -27px;
+height: 170px;
+display: block;
+margin-bottom: 40px;
+position: fixed;
+}
+
+
+
+
+.header{position: fixed;
+font-weight: bolder;
+font-size: 90px;}
+
+h5{text-align: left;}	
+
